@@ -1,0 +1,15 @@
+Variation ID	Location	Distance from rs4147929	Consequence Type	r2	D'	Phenotypes	GWAS_Trait_Category	Source
+rs4147929	19:1063444-1063444	0	intron_variant	undefined	undefined	Alzheimer's disease;Alzheimer's disease (late onset);Alzheimer's disease (late onset);Alzheimer's disease or family history of Alzheimer's disease;Alzheimer's disease or family history of Alzheimer's disease;	Neurological disorder	Ensembl
+rs11084881	19:1074253-1074253	10809	intron_variant	0.617212	0.956752		No trait reported	Ensembl
+rs4147936	19:1065198-1065198	1754	intron_variant	0.601140	0.999991		No trait reported	Ensembl
+rs1609436	19:1064590-1064590	1146	intron_variant	0.601140	0.999991		No trait reported	Ensembl
+rs4147930	19:1064194-1064194	750	synonymous_variant	0.601140	0.999991		No trait reported	Ensembl
+rs2074441	19:1073410-1073410	9966	intron_variant	0.654796	0.999997		No trait reported	Ensembl
+rs4147932	19:1064486-1064486	1042	intron_variant	0.601140	0.999991		No trait reported	Ensembl
+rs2072102	19:1073074-1073074	9630	intron_variant	0.654796	0.999997		No trait reported	Ensembl
+rs2242437	19:1065564-1065564	2120	3_prime_UTR_variant	0.601140	0.999991		No trait reported	Ensembl
+rs4147934	19:1065019-1065019	1575	missense_variant	0.601140	0.999991		No trait reported	Ensembl
+rs2074442	19:1074001-1074001	10557	missense_variant	0.654796	0.999997		No trait reported	Ensembl
+rs1968456	19:1063080-1063080	-364	intron_variant	0.654796	0.999997		No trait reported	Ensembl
+rs4147922	19:1062599-1062599	-845	intron_variant	0.618281	0.999993		No trait reported	Ensembl
+rs3752246	19:1056493-1056493	-6951	missense_variant	0.964074	1.000000	Alzheimer's disease (late onset);Metabolite levels;Metabolite levels;Red blood cell count	Neurological disorder	GWAS

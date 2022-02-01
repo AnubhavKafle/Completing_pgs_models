@@ -1,0 +1,5 @@
+missing proxy r2 proxy r2
+rs4147929 rs4147932 0.60
+
+\beta_proxy = sqrt(r) * \beta_original
+OR

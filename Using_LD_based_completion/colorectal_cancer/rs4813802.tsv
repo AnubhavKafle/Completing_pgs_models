@@ -1,0 +1,17 @@
+Variation ID	Location	Distance from rs4813802	Consequence Type	r2	D'	Phenotypes	GWAS_Trait_Category	Source
+rs4813802	20:6718948-6718948	0	regulatory_region_variant	undefined	undefined	Colorectal Cancer;Colorectal Cancer;Colorectal Cancer;Colorectal Cancer;Colorectal cancer or advanced adenoma;	Cancer	Ensembl
+rs6133350	20:6734325-6734325	15377	intron_variant	0.640522	0.867233		No trait reported	Ensembl
+rs5840154	20:6709754-6709754	-9194	regulatory_region_variant	0.774120	0.900743		No trait reported	Ensembl
+rs6133349	20:6734312-6734312	15364	intron_variant	0.640522	0.867233		No trait reported	Ensembl
+rs2876052	20:6730925-6730925	11977	intergenic_variant	0.640522	0.867233		No trait reported	Ensembl
+rs2010978	20:6712875-6712875	-6073	regulatory_region_variant	0.776562	0.901925		No trait reported	Ensembl
+rs6117401	20:6735450-6735450	16502	intron_variant	0.623633	0.865426		No trait reported	Ensembl
+rs990928	20:6713232-6713232	-5716	intergenic_variant	0.606363	0.912436		No trait reported	Ensembl
+rs990999	20:6711882-6711882	-7066	regulatory_region_variant	0.756430	0.900469		No trait reported	Ensembl
+rs990929	20:6712943-6712943	-6005	regulatory_region_variant	0.799626	0.925823		No trait reported	Ensembl
+rs6140071	20:6725846-6725846	6898	intergenic_variant	0.840777	0.949911		No trait reported	Ensembl
+rs3931450	20:6720982-6720982	2034	intergenic_variant	0.653736	0.846767		No trait reported	Ensembl
+rs6085662	20:6717725-6717725	-1223	regulatory_region_variant	0.976862	1.000000		No trait reported	GWAS
+rs1500545	20:6733461-6733461	14513	intron_variant	0.640522	0.867233		No trait reported	Ensembl
+rs1015563	20:6709454-6709454	-9494	regulatory_region_variant	0.796336	0.924465	Colorectal Cancer	Cancer	GWAS
+rs6085661	20:6712481-6712481	-6467	TF_binding_site_variant	0.776562	0.901925	Colorectal Cancer	Cancer	GWAS

@@ -1,0 +1,24 @@
+Variation ID	Location	Distance from rs11813268	Consequence Type	r2	D'	Phenotypes	GWAS_Trait_Category	Source
+rs11813268	10:103922538-103922538	0	intergenic_variant	undefined	undefined	Renal cell carcinoma;	Cancer	Ensembl
+rs10786775	10:103897558-103897558	-24980	missense_variant	0.675000	1.000000		No trait reported	Ensembl
+rs34685262	10:103908286-103908286	-14252	intron_variant	0.675000	1.000000		No trait reported	Ensembl
+rs75113904	10:103922587-103922587	49	intergenic_variant	1.000000	1.000000		No trait reported	Ensembl
+rs2487999	10:103900068-103900068	-22470	missense_variant	0.675000	1.000000		No trait reported	Ensembl
+rs2984131	10:103898330-103898330	-24208	non_coding_transcript_exon_variant	0.675000	1.000000		No trait reported	Ensembl
+rs2475218	10:103912257-103912257	-10281	intron_variant	0.675000	1.000000		No trait reported	Ensembl
+rs2756116	10:103912046-103912046	-10492	intron_variant	0.675000	1.000000		No trait reported	Ensembl
+rs2475215	10:103900944-103900944	-21594	intron_variant	0.675000	1.000000		No trait reported	Ensembl
+rs2488000	10:103911351-103911351	-11187	intron_variant	0.675000	1.000000		No trait reported	Ensembl
+rs1265164	10:103915096-103915096	-7442	intron_variant	0.889024	1.000000		No trait reported	Ensembl
+rs201581170	10:103922586-103922586	48	intergenic_variant	1.000000	1.000000		No trait reported	Ensembl
+rs35818937	10:103932860-103932861	10322	intergenic_variant	0.889024	1.000000		No trait reported	Ensembl
+rs2488001	10:103911374-103911374	-11164	intron_variant	0.675000	1.000000		No trait reported	Ensembl
+rs1265165	10:103911769-103911769	-10769	intron_variant	0.675000	1.000000		No trait reported	GWAS
+rs4387287	10:103918139-103918139	-4399	5_prime_UTR_variant	1.000000	1.000000	Diastolic blood pressure;Diastolic blood pressure;Hypertension;Systolic blood pressure;Telomere length	Other measurement	GWAS
+rs11591710	10:103927874-103927874	5336	intergenic_variant	0.889024	1.000000	Lung adenocarcinoma	Cancer	GWAS
+rs9420907	10:103916707-103916707	-5831	intron_variant	0.889024	1.000000	Telomere length	Other measurement	GWAS
+rs2995264	10:103909085-103909085	-13453	intron_variant	0.675000	1.000000	Cutaneous malignant melanoma;Melanoma	Cancer	GWAS
+rs2488002	10:103919583-103919583	-2955	intergenic_variant	1.000000	1.000000	White matter microstructure axial diusivities;White matter microstructure mean diusivities;White matter microstructure mean diusivities;White matter microstructure mean diusivities;White matter microstructure radial diusivities;White matter microstructure radial diusivities	Other measurement	GWAS
+rs7902587	10:103934543-103934543	12005	intergenic_variant	0.675000	1.000000	Low-grade serous and serous borderline ovarian cancer;Lung Cancer;Serous borderline ovarian cancer;Thyroid cancer	Cancer	GWAS
+rs7907606	10:103920874-103920874	-1664	intergenic_variant	1.000000	1.000000	Basal cell carcinoma;Uterine fibroids;Uterine fibroids	Cancer	GWAS
+rs9419958	10:103916188-103916188	-6350	intron_variant	0.889024	1.000000	Basal cell carcinoma;Keratinocyte cancer MTAG;Telomere length;Uterine fibroids	Cancer	GWAS

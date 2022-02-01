@@ -1,0 +1,34 @@
+Variation ID	Location	Distance from rs12526453	Consequence Type	r2	D'	Phenotypes	GWAS_Trait_Category	Source
+rs12526453	6:12927312-12927312	0	intron_variant	undefined	undefined	Coronary heart disease;Myocardial infarction (early onset);	Cardiovascular disease	Ensembl
+rs8180558	6:12919757-12919757	-7555	intron_variant	1.000000	1.000000		No trait reported	Ensembl
+rs7760527	6:12908176-12908176	-19136	intron_variant	0.888234	1.000000		No trait reported	Ensembl
+rs4715000	6:12943886-12943886	16574	intron_variant	0.691082	0.968019		No trait reported	Ensembl
+rs9381494	6:12912920-12912920	-14392	intron_variant	0.888234	1.000000		No trait reported	Ensembl
+rs62386818	6:12923535-12923535	-3777	intron_variant	1.000000	1.000000		No trait reported	Ensembl
+rs6458545	6:12934070-12934070	6758	non_coding_transcript_exon_variant	0.909272	1.000000		No trait reported	GWAS
+rs7748390	6:12946180-12946180	18868	intron_variant	0.691082	0.968019		No trait reported	Ensembl
+rs9369650	6:12922420-12922420	-4892	intron_variant	0.930936	0.999999		No trait reported	Ensembl
+rs13197912	6:12908515-12908515	-18797	intron_variant	0.953260	1.000000		No trait reported	Ensembl
+rs12530250	6:12911733-12911733	-15579	intron_variant	0.953260	1.000000		No trait reported	Ensembl
+rs1953088	6:12925704-12925704	-1608	intron_variant	0.930936	0.999999		No trait reported	Ensembl
+rs6922782	6:12948156-12948156	20844	intron_variant	0.691082	0.968019		No trait reported	Ensembl
+rs7739181	6:12934455-12934455	7143	non_coding_transcript_exon_variant	0.976271	1.000000		No trait reported	Ensembl
+rs2876302	6:12907180-12907180	-20132	intron_variant	0.888234	1.000000		No trait reported	Ensembl
+rs13201878	6:12942834-12942834	15522	intron_variant	0.691082	0.968019		No trait reported	Ensembl
+rs2327621	6:12922457-12922457	-4855	intron_variant	1.000000	1.000000		No trait reported	Ensembl
+rs4711863	6:12915185-12915185	-12127	intron_variant	0.976271	1.000000		No trait reported	Ensembl
+rs59243582	6:12906186-12906190	-21126	intron_variant	0.888234	1.000000		No trait reported	Ensembl
+rs2876301	6:12907179-12907179	-20133	intron_variant	0.888234	1.000000		No trait reported	GWAS
+rs111395058	6:12921482-12921482	-5830	intron_variant	1.000000	1.000000		No trait reported	Ensembl
+rs34228161	6:12922490-12922492	-4822	intron_variant	1.000000	1.000000		No trait reported	Ensembl
+rs7760016	6:12907845-12907845	-19467	intron_variant	0.888234	1.000000		No trait reported	Ensembl
+rs34343839	6:12922502-12922502	-4810	intron_variant	1.000000	1.000000		No trait reported	Ensembl
+rs9381500	6:12922303-12922303	-5009	intron_variant	1.000000	1.000000		No trait reported	Ensembl
+rs9369652	6:12924512-12924512	-2800	intron_variant	0.930936	0.999999		No trait reported	Ensembl
+rs1014342	6:12922925-12922925	-4387	intron_variant	0.930936	0.999999		No trait reported	Ensembl
+rs7454157	6:12909642-12909642	-17670	intron_variant	0.888234	1.000000		No trait reported	Ensembl
+rs4714990	6:12927613-12927613	301	intron_variant	0.909272	1.000000	Coronary Artery Disease	Cardiovascular disease	Ensembl
+rs2327620	6:12907359-12907359	-19953	intron_variant	0.888234	1.000000	Coronary Artery Disease	Cardiovascular disease	Ensembl
+rs4714955	6:12903203-12903203	-24109	intron_variant	0.953260	1.000000	Coronary artery disease or ischemic stroke;Coronary artery disease or large artery stroke	Neurological disorder	GWAS
+rs6905419	6:12944861-12944861	17549	intron_variant	0.691082	0.968019	Hand grip strength	Other measurement	GWAS
+rs2876303	6:12919635-12919635	-7677	intron_variant	0.930936	0.999999	Coronary Artery Disease	Cardiovascular disease	Ensembl
